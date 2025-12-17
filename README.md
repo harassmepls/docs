@@ -1,4 +1,4 @@
-# bleed documentation
+# premium.bots documentation
 
 This repository contains premium.bot's documentation that can be found [here](https://docs.spite.lol/).
 
